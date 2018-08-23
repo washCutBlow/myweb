@@ -67,7 +67,7 @@ state:
   categories: categorias
 
 cheers:
-  um: Um..
+  um: 截止目前文章数量
   ok: OK
   nice: Legal
   good: Bom
